@@ -1,0 +1,9 @@
+{
+    "name": "NirvanaByPass",
+    "version": "1.0.0",
+    "github": "https://github.com/DravenOcarrasco/NirvanaByPass",
+    "minVersion": "2.5.0-ALPHA",
+    "compatibility": [
+        "2.5.0-ALPHA"
+    ]
+}
